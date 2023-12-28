@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	
+	<h3>테이블 태그 그리기</h3>
+	
+	<table border="1" style="text-align: right;">
+		<tr>
+			<td>이름</td>
+			<td>나이는 몇일까요</td>
+			<td>영화</td>
+			
+			
+		</tr>
+		<tr>
+			<td>홍길동</td>
+			<td ">20세</td>
+			<td rowspan="3">나니야 연대기</td>
+			
+			
+			
+		</tr>		
+		<tr>
+			
+			<td colspan="2">이순신</td>
+			
+		</tr>		
+		
+		<tr>
+			
+			<td colspan="2" style="text-align: center;">불멸의 이순신</td>
+			
+		</tr>	
+		
+	</table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+
+12월 27, 2023 12:11:21.67 NEW SESSION
+12월 27, 2023 12:11:22.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 27, 2023 12:28:12.79 [25864:23752:1227/122812.795:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:29:25.24 [25864:23752:1227/122925.244:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:29:29.19 [25864:23752:1227/122929.194:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:29:31.35 [25864:23752:1227/122931.355:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:29:35.34 [25864:23752:1227/122935.345:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:29:44.17 [25864:23752:1227/122944.172:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:10.84 [25864:23752:1227/123010.841:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:20.84 [25864:23752:1227/123020.846:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:21.87 [25864:23752:1227/123021.875:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:24.86 [25864:23752:1227/123024.862:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:32.82 [25864:23752:1227/123032.820:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:40.94 [25864:23752:1227/123040.948:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:30:47.86 [25864:23752:1227/123047.861:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:31:08.86 [25864:23752:1227/123108.862:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:31:31.24 [25864:23752:1227/123131.247:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 12:31:39.38 [25864:23752:1227/123139.389:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 13:45:08.44 [25864:23752:1227/134508.437:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 13:47:31.34 [25864:23752:1227/134731.339:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 13:47:31.34 [25864:23752:1227/134731.339:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 15:19:22.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 27, 2023 15:36:10.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 27, 2023 15:36:30.25 [23764:27944:1227/153630.254:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+12월 27, 2023 15:40:43.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 27, 2023 15:59:31.26 [25756:3428:1227/155931.257:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 16:00:02.90 [25756:3428:1227/160002.902:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 16:00:09.20 [25756:3428:1227/160009.205:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2023 18:30:22.78 [25756:12832:1227/183022.755:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 18:31:37.11 [25756:12832:1227/183137.101:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 18:31:44.18 [25756:12832:1227/183144.186:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 18:32:56.17 [25756:12832:1227/183256.172:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 19:02:44.59 [25756:12832:1227/190244.582:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 21:43:06.73 [25756:12832:1227/214306.665:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 27, 2023 21:47:28.51 [25756:12832:1227/214728.514:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 28, 2023 08:18:43.69 [25756:12832:1228/081843.693:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+12월 28, 2023 09:46:42.81 NEW SESSION
+12월 28, 2023 09:46:42.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+12월 28, 2023 10:56:59.63 NEW SESSION
+12월 28, 2023 10:56:59.72 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 14:50:21.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 14:52:55.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:19:23.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:19:44.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:20:24.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:26:57.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:45:04.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 15:46:20.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 16:03:42.68 [24188:8976:1228/160342.682:ERROR:device_event_log_impl.cc(192)] [16:03:42.677] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+12월 28, 2023 16:06:12.10 [24188:8976:1228/160612.099:ERROR:device_event_log_impl.cc(192)] [16:06:12.095] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+12월 28, 2023 16:06:46.17 [24188:8976:1228/160646.172:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 28, 2023 16:06:52.81 [24188:8976:1228/160652.810:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 28, 2023 17:11:08.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 17:14:27.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 18:03:33.98 [17784:27924:1228/180333.977:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 28, 2023 18:46:45.02 [17784:12952:1228/184645.022:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost

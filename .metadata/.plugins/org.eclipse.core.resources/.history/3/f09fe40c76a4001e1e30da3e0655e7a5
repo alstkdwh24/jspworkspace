@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h3>블럭과 vs 인라인</h3>
+	
+	<!--
+		블럭
+		홤녀 전체영역을 가진다.(줄바꿈이 자동으로 일어납니다.)
+		블럭요소는, 자식으로 블럭 or 인라인 요소를 가져도 됩니다.
+		-->
+		<h3>블럭</h3>
+		<p>블럭</p>
+		<ul>
+			<li>블럭</li>
+		</ul>
+		<table>
+			블럭
+		</table>
+
+		<div>블럭</div>
+		<div>블럭</div>
+		<div>
+			<div>
+				<div>
+				<div></div>
+				</div>
+			</div>
+		</div>
+
+	<hr>
+	
+	<img src="#" />
+	<b>인라인</b>
+	<strong>인라인</strong>
+	<a href="#">인라인</a>
+	<input type="text" >
+	<span>인라인</span>
+	<span>인라인</span>
+	<span>인라인</span>
+	<span>인라인</span>
+	
+	<p>
+		<a>네이버</a>
+		
+	</p>
+	
+	<a>
+		<p>네이버</p>
+		
+		<a><span>네이버</span></a>
+	</a>
+	
+
+
+</body>
+</html>

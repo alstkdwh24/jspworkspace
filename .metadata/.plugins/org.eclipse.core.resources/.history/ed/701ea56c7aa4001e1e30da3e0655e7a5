@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>Emp 정보를 테이블에 그려봅시다</h3>
+	<table border="1" style="text-align: right;">
+	
+		사원번호: <input type="text" name="사원번호" size="15"><br>
+		이름:    <input type="text" name="이름"><br>
+		성별: 
+		남자     <input type="checkbox" name="a1">
+		여자 <input type="checkbox" name="a1"> <br>
+		상사: <select name="상사"> <br>
+				<option>7369</option>
+				<option>7359</option>
+				<option>7349</option>
+				<option>7339</option>
+				<option>7329</option>
+				<option>7319</option> 
+		</select> <br>
+		입사일: <input type="date" name="Hire date"><br>
+		급여: <input type="text" name="salary"><br>
+		커미션: <input type="text" name="커미션"><br>
+		부서번호: 
+		<select name="부서번호">
+			<option>10 ACCOUNTING NEWYORK</option>
+			
+			
+			
+		</select>
+			
+		
+	
+	</table>
+</body>
+</html>

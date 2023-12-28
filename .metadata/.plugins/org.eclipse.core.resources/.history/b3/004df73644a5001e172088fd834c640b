@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+
+	//request는 자동으로 생성되는 내장객체. 그래서 request변수에 . 찍어서 사용합니다.
+	StringBuffer url = request.getRequestURL(); //전체주소
+
+	String uri=request.getRequestURI();
+
+	String path=request.getContextPath(); //컨패스 - was가 프로젝트를 구분하는 최상위 경로
+%>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>리퀘스트 객체 확인하기</h3>
+	유알엘: <%=url %><br>
+	유알아이: <%=uri %><br>
+	컨택스트패스: <%= path %><br>
+</body>
+</html>
