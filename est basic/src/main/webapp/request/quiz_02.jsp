@@ -20,14 +20,9 @@
 	<form action="quiz_02_ok.jsp" method="post">
 		이름:<input type="text" name="name" maxlength="6" placeholder="이름을 입력하세요"><br>
 		키:<input type="text" name="height"><br>
-		몸무게:<input type="number" name="keight"><br>
+		몸무게:<input type="text" name="keight"><br>
+		<input type="submit" value="랄라라라">
 		
-	
-	
-	
-	
-	
-	
 	</form>
 </body>
 </html>

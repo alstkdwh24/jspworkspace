@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<hr>
+
+	<a href="https://www.naver.com">네이버로 이동</a>
+	<a href="https://www.google.com">구글로 이동 </a>
+	<a href = "hello.html">hello파일로 이동ㄴㅇㄴㅇ</a>
+	
+	
+<img src="img/다운로드 (1).jpg" "피카츄" width="100px" height="100px"/>
+
+
+
+<hr> 
+
+<a href="H.html"><img src="img/다운로드 (2).png" alt="랄랄라" width="200px" height="300px"></a>
+<hr>
+
+<hr>
+
+<!--순서를 나타내는 태그-->
+<ur>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+	<li>홍길동</li>
+</ur>
+<ol>
+	<li>홍길동</li>
+	<li>이순신</li>
+	<li>이순신</li>
+	<li>이순신</li>
+	
+</ol>
+
+<img scr="img/다운로드  .jpg"alt="랄랄라" width="200px" height="300px"/>
+
+</body>
+</html>

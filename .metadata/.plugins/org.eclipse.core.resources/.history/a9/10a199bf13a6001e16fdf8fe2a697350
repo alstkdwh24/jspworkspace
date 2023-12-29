@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+<%
+	//처리하는 영역
+	//아이디가 aaa123, 비밀번호가 1234 이라면 로그인 성공가정 ok페이지로 넘겨줍니다.
+	
+	request.setCharacterEncoding("utf-8");
+
+	String id = request.getParameter("id");
+	String pw = request.getParameter("pw");
+	
+	if(id.equals("aaa123") && pw.equals("1234")){//로그인 성공
+		response.sendRedirect("ex01_01.jsp"); //성공페이지
+	} else{
+		response.sendRedirect("ex01.jsp");
+	}
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

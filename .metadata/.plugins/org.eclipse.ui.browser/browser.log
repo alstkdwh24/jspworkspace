@@ -57,3 +57,41 @@
 12월 28, 2023 17:14:27.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 12월 28, 2023 18:03:33.98 [17784:27924:1228/180333.977:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
 12월 28, 2023 18:46:45.02 [17784:12952:1228/184645.022:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+12월 28, 2023 20:32:35.95 NEW SESSION
+12월 28, 2023 20:32:35.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 20:55:03.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 21:08:01.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 21:13:46.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 21:23:38.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 28, 2023 21:37:35.00 [14448:21812:1228/213734.998:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 28, 2023 21:49:20.61 [14448:21812:1228/214920.613:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 28, 2023 21:52:13.52 [14448:21812:1228/215213.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 28, 2023 21:52:29.48 [14448:21812:1228/215229.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 28, 2023 21:52:38.44 [14448:21812:1228/215238.446:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 28, 2023 21:52:40.56 [14448:21812:1228/215240.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 28, 2023 21:52:48.05 [14448:4564:1228/215248.050:ERROR:device_event_log_impl.cc(192)] [21:52:48.048] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+12월 28, 2023 21:53:12.83 [14448:21812:1228/215312.837:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+12월 28, 2023 21:53:20.59 [14448:21812:1228/215320.594:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 28, 2023 21:53:34.51 [14448:21812:1228/215334.511:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 29, 2023 08:27:00.77 [14448:21812:1229/082700.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 29, 2023 08:27:00.78 [14448:21576:1229/082700.782:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+
+12월 29, 2023 09:31:04.82 NEW SESSION
+12월 29, 2023 09:31:04.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 09:35:03.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 09:40:26.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 09:53:44.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 10:37:36.07 [27664:11068:1229/103736.073:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 29, 2023 11:40:22.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:46:02.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:46:12.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:46:25.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:46:44.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:47:02.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:47:47.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 11:50:34.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 12:16:37.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 14:10:54.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 14:52:05.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 29, 2023 17:03:30.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
