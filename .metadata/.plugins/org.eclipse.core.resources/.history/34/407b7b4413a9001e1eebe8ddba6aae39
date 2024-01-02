@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <%
+   
+    String pw= (String)session.getAttribute("pw");
+    
+    int time=session.getMaxInactiveInterval();
+
+   
+    if(id.equals("id") && pw.equals("pw")){
+ 	   response.sendRedirect("session_welcome.jsp");
+ 	  String id= (String)session.getAttribute("user_id","id");   
+ 	 String nick=(String)session.getAttribute("user_nick","nick" );    
+    }
+    else{
+    	response.sendRedirect("session_login.jsp");
+    }
+    
+    
+    
+    %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

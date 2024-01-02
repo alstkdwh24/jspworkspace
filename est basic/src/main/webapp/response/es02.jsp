@@ -12,9 +12,9 @@ int d= Integer.parseInt(math);
 	double a=(b+c+d)/3;
 %>
 <%if(a>=60){%>
- <%=response.sendRedirect("es02_1.jsp") %>
+ <%response.sendRedirect("es02_1.jsp"); %>
  <%}else{%>
- <%=response.sendRedirect("es01_2.jsp") %>
+ <%response.sendRedirect("es01_2.jsp"); %>
  <%} %>
 
 <!DOCTYPE html>
