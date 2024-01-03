@@ -1,3 +1,3 @@
 #Tomcat publish data
-#Tue Jan 02 16:44:02 KST 2024
-org.eclipse.jst.jee.server\:est\ basic=C\:\\Users\\alstk\\course\\apache-tomcat-9.0.84\\wtpwebapps\\est basic
+#Wed Jan 03 20:03:52 KST 2024
+org.eclipse.jst.jee.server\:est_basic=C\:\\Users\\alstk\\course\\apache-tomcat-9.0.84\\wtpwebapps\\est_basic
