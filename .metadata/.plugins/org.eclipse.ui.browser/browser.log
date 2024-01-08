@@ -346,3 +346,35 @@
 1월 08, 2024 12:08:10.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 1월 08, 2024 12:14:35.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 1월 08, 2024 12:15:41.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 08, 2024 18:18:08.96 NEW SESSION
+1월 08, 2024 18:18:08.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:20:38.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:20:44.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:20:51.91 [13460:27084:0108/182051.918:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+1월 08, 2024 18:20:59.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:22:47.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:22:54.16 [28356:6908:0108/182254.162:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 08, 2024 18:23:32.69 [28356:6908:0108/182332.693:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 08, 2024 18:29:29.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:29:52.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:34:34.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:53:32.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:55:49.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:55:54.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:56:00.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 18:56:08.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:38:27.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:43:15.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:43:31.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:46:58.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:47:13.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:48:02.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:51:41.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:54:18.95 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 20:57:12.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 21:26:58.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 21:36:01.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 21:59:28.60 [22296:27384:0108/215928.602:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 09, 2024 24:31:43.73 [22296:28664:0109/003143.733:ERROR:device_event_log_impl.cc(192)] [00:31:43.730] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 09, 2024 24:31:43.80 [22296:27384:0109/003143.808:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
