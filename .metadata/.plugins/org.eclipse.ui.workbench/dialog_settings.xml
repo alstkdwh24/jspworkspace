@@ -14,13 +14,13 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_X_ORIGIN" value="728"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_Y_ORIGIN" value="318"/>
 		<list key="orderedElements">
-			<item value="editActionSets"/>
 			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
+			<item value="editActionSets"/>
 			<item value="org.eclipse.ui.console.ConsoleView"/>
 		</list>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.actions"/>
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.actions"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textEntries">
@@ -29,8 +29,8 @@
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="customize perspective"/>
 			<item value="pro"/>
+			<item value="customize perspective"/>
 			<item value="con"/>
 		</list>
 	</section>
@@ -38,5 +38,9 @@
 		<item key="actionSetFilter" value="true"/>
 		<item key="internalFilter" value="true"/>
 		<item key="uncategorizedFilter" value="true"/>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="ZipFileExportWizard">
 	</section>
 </section>

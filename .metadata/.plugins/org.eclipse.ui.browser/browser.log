@@ -217,3 +217,132 @@
 1월 04, 2024 17:04:04.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 1월 04, 2024 17:07:14.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 1월 04, 2024 17:08:19.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 20:37:09.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 09:19:54.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 09:20:28.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:02:19.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:09:29.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:16:42.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:16:49.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:17:15.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:17:29.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:17:34.24 [29188:22420:0105/101734.243:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+1월 05, 2024 10:18:03.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:18:42.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 10:22:51.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:00:28.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:02:34.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:21:11.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:23:27.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:36:35.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:39:29.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:43:05.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:43:19.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 11:58:09.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 12:03:10.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 12:06:22.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 12:08:24.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 12:47:05.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 12:50:16.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 16:04:49.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 05, 2024 16:16:49.46 [24860:15380:0105/161649.459:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 05, 2024 16:16:49.46 [24860:15380:0105/161649.459:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 05, 2024 16:23:39.59 [24860:30000:0105/162339.591:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 05, 2024 16:23:46.06 [24860:30000:0105/162346.066:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 05, 2024 16:33:18.22 [24860:30000:0105/163318.220:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 05, 2024 16:33:47.27 [24860:30000:0105/163347.273:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 05, 2024 16:34:42.82 [24860:30000:0105/163442.819:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 05, 2024 16:36:47.03 [24860:30000:0105/163647.037:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 05, 2024 16:42:49.06 [24860:30000:0105/164249.067:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 05, 2024 16:54:34.37 [24860:15380:0105/165434.374:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 05, 2024 16:54:34.53 [24860:15380:0105/165434.538:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:34.64 [24860:15380:0105/165434.641:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:34.88 [24860:15380:0105/165434.881:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:35.15 [24860:15380:0105/165435.157:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:35.27 [24860:15380:0105/165435.277:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:35.38 [24860:15380:0105/165435.386:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:35.50 [24860:15380:0105/165435.500:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:35.80 [24860:15380:0105/165435.808:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:36.04 [24860:15380:0105/165436.048:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:37.16 [24860:15380:0105/165437.166:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:37.27 [24860:15380:0105/165437.273:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:37.98 [24860:15380:0105/165437.986:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:38.10 [24860:15380:0105/165438.106:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:38.26 [24860:15380:0105/165438.267:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:38.50 [24860:15380:0105/165438.500:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:38.68 [24860:15380:0105/165438.683:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:39.09 [24860:15380:0105/165439.094:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:39.68 [24860:15380:0105/165439.686:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:39.92 [24860:15380:0105/165439.929:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:40.36 [24860:15380:0105/165440.367:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:41.31 [24860:15380:0105/165441.312:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:41.43 [24860:15380:0105/165441.436:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:41.55 [24860:15380:0105/165441.551:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:41.66 [24860:15380:0105/165441.668:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:41.77 [24860:15380:0105/165441.777:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:42.43 [24860:15380:0105/165442.431:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:42.63 [24860:15380:0105/165442.638:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.12 [24860:15380:0105/165443.121:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.27 [24860:15380:0105/165443.274:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.43 [24860:15380:0105/165443.435:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.55 [24860:15380:0105/165443.549:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.67 [24860:15380:0105/165443.669:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:43.91 [24860:15380:0105/165443.911:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:44.03 [24860:15380:0105/165444.037:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:44.17 [24860:15380:0105/165444.169:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:44.37 [24860:15380:0105/165444.377:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:44.50 [24860:15380:0105/165444.505:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:44.62 [24860:15380:0105/165444.623:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:45.40 [24860:15380:0105/165445.403:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:45.53 [24860:15380:0105/165445.534:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:45.67 [24860:15380:0105/165445.672:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:45.81 [24860:15380:0105/165445.810:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:46.11 [24860:15380:0105/165446.113:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:46.31 [24860:15380:0105/165446.310:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:46.49 [24860:15380:0105/165446.490:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:46.62 [24860:15380:0105/165446.627:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:47.75 [24860:15380:0105/165447.750:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:47.96 [24860:15380:0105/165447.965:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:48.11 [24860:15380:0105/165448.118:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:48.25 [24860:15380:0105/165448.254:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:48.39 [24860:15380:0105/165448.395:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:48.51 [24860:15380:0105/165448.511:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.07 [24860:15380:0105/165449.072:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.27 [24860:15380:0105/165449.269:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.40 [24860:15380:0105/165449.401:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.51 [24860:15380:0105/165449.511:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.72 [24860:15380:0105/165449.723:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.78 [24860:15380:0105/165449.788:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 16:54:49.85 [24860:15380:0105/165449.858:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.144 s for first_image_paint 0.129 s
+1월 05, 2024 17:58:04.11 [24860:30000:0105/175804.112:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 09:51:09.70 [24860:30000:0106/095109.703:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 09:51:09.90 [24860:30000:0106/095109.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1월 06, 2024 09:51:11.62 [24860:28668:0106/095111.626:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1월 06, 2024 09:51:20.77 [24860:30000:0106/095120.775:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1월 06, 2024 09:52:04.61 [24860:30000:0106/095204.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1월 06, 2024 09:52:09.70 [24860:30000:0106/095209.708:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 09:55:30.24 [24860:30000:0106/095530.246:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 10:06:15.34 [24860:30000:0106/100615.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 10:16:31.22 [24860:15380:0106/101631.223:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 06, 2024 10:32:53.62 [24860:15380:0106/103253.626:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 06, 2024 10:33:05.98 [24860:15380:0106/103305.987:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 06, 2024 10:33:14.47 [24860:15380:0106/103314.466:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 06, 2024 10:42:30.43 [24860:15380:0106/104230.428:ERROR:interface_endpoint_client.cc(702)] Message 4 rejected by interface blink.mojom.WidgetHost
+1월 06, 2024 11:09:06.95 [24860:30000:0106/110906.946:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 11:43:10.23 [24860:30000:0106/114310.230:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 11:43:10.60 [24860:30000:0106/114310.604:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1월 06, 2024 11:43:15.04 [24860:30000:0106/114315.038:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 13:27:19.13 [24860:30000:0106/132719.133:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 16:18:46.06 [24860:30000:0106/161846.050:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 06, 2024 16:18:48.64 [24860:30000:0106/161848.646:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 16:18:48.84 [24860:3664:0106/161848.841:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+1월 06, 2024 16:18:48.95 [24860:30000:0106/161848.950:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 16:20:30.69 [24860:30000:0106/162030.689:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 16:20:30.73 [24860:30000:0106/162030.734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 06, 2024 16:23:52.15 [24860:30000:0106/162352.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1월 08, 2024 09:40:23.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 09:52:11.56 [14400:13808:0108/095211.529:ERROR:device_event_log_impl.cc(192)] [09:52:11.523] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 08, 2024 11:19:58.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 12:08:10.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 12:14:35.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 08, 2024 12:15:41.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

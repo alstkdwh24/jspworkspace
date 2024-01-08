@@ -1,4 +1,5 @@
 #Tomcat publish data
-#Thu Jan 04 17:07:41 KST 2024
+#Mon Jan 08 12:50:41 KST 2024
+org.eclipse.jst.jee.server\:JSPPROJECT=C\:\\Users\\alstk\\course\\apache-tomcat-9.0.84\\wtpwebapps\\JSPPROJECT
 org.eclipse.jst.jee.server\:JSPMyWeb=C\:\\Users\\alstk\\course\\apache-tomcat-9.0.84\\wtpwebapps\\JSPMyWeb
 org.eclipse.jst.jee.server\:est_basic=C\:\\Users\\alstk\\course\\apache-tomcat-9.0.84\\wtpwebapps\\est_basic

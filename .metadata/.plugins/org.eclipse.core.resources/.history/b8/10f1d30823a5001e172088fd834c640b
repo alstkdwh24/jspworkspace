@@ -1,7 +1,0 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-	<footer>
-		<h3>번호영역</h3>
-		<p><% for(int i =1; i<=45; i++)%><% {%>
-				<% i%><%} %></p>
-	</footer>

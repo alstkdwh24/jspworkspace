@@ -16,7 +16,7 @@
 	
 	<h2>세션 로그인 연습</h2>
 	<% if(id !=null){%>
-	
+		??
 	<%} else { %>
 	
 	<form action="session_login_ok.jsp" method="post">

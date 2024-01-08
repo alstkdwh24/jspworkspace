@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>        
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,20 +13,21 @@
     <title>Welcome to MyWorld</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="${pageContext.request.contextPath}/css/bootstrap.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath }/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="${pageContext.request.contextPath}/css/business-casual.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath }/css/business-casual.css" rel="stylesheet">
 
     <!-- Fonts -->
-    <link href="${pageContext.request.contextPath}/https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-    <link href="${pageContext.request.contextPath}/https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,.600italic,700italic" rel="stylesheet" type="text/css">
 	
 	<!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="${pageContext.request.contextPath }/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="${pageContext.request.contextPath }/js/bootstrap.min.js"></script>
+
     
 	<style>
 	.abc {
@@ -35,14 +37,15 @@
 		z-index: 10;
 	}
 	</style>
-	<style>
+    <style>
 	.div_center {
 		margin-bottom: 20px;
 		margin-top:20px;
 		padding: 30px 15px;
 
 	}
-</style>
+	</style>
+    
     
     
 </head>
@@ -70,20 +73,40 @@
                 <ul class="nav navbar-nav">
                 	
                     <li>
-                        <a href="${pageContext.request.contextPath}/index.jsp">HOME</a>
+                        <a href="${pageContext.request.contextPath }/index.jsp">HOME</a>
                     </li>
                     <li>
-                        <a href="${pageContext.request.contextPath}/member/member.jsp">Member</a>
+                        <a href="${pageContext.request.contextPath }/member/member.jsp">Member</a>
                     </li>
                     <li>
-                        <a href="">BOARD</a>
+                        <a href="${pageContext.request.contextPath }/board/list.board">BOARD</a>
                     </li>
-                    <li>
-                        <a href="${pageContext.request.contextPath }/user/login.user">LOGIN</a>
-                    </li>
-                    <li>
-                        <a href="${pageContext.request.contextPath}/user/join.user" style="color:red">JOIN</a>
-                    </li>
+                   
+                   
+                 	<c:choose>
+                 	<c:when test="${sessionScope.user_id == null }">
+	                    <li>
+	                        <a href="${pageContext.request.contextPath }/user/login.user">LOGIN</a>
+	                    </li>
+	                    <li>
+	                        <a href="${pageContext.request.contextPath }/user/join.user" style="color:red">JOIN</a>
+	                    </li>
+                    </c:when>
+                    <c:otherwise>
+   	                    <li>
+	                        <a href="${pageContext.request.contextPath }/user/logout.user">LOGOUT</a>
+	                    </li>
+	                    <li>
+	                        <a href="${pageContext.request.contextPath }/user/mypage.user" style="color:red">MYPAGE</a>
+	                    </li>
+                    </c:otherwise>
+                    </c:choose>
+
+
+
+
+
+
                 </ul>
             </div>
             

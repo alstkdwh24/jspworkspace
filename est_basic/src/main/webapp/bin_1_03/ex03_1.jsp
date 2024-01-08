@@ -16,8 +16,8 @@
 </head>
 <body>
 
-<%=vo.getId() %>
-<%=vo.getName() %>
+<%=vo.getId() %><br>
+<%=vo.getName() %><br>
 <%=vo.getEmail() %>
 
 </body>
