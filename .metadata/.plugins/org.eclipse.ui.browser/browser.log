@@ -378,3 +378,76 @@
 1월 08, 2024 21:59:28.60 [22296:27384:0108/215928.602:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
 1월 09, 2024 24:31:43.73 [22296:28664:0109/003143.733:ERROR:device_event_log_impl.cc(192)] [00:31:43.730] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 1월 09, 2024 24:31:43.80 [22296:27384:0109/003143.808:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+1월 09, 2024 08:19:46.01 NEW SESSION
+1월 09, 2024 08:19:46.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 08:40:59.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 08:41:17.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 09:46:57.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:06:34.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:16:21.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:19:14.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:39:58.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:44:58.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:46:49.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 10:51:47.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:13:23.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:18:40.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:21:39.14 [8516:8552:0109/112139.149:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 11:30:54.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:34:28.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:36:24.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 11:36:30.49 [7440:23224:0109/113630.496:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 12:16:39.99 [7440:23224:0109/121639.993:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+1월 09, 2024 17:54:44.89 NEW SESSION
+1월 09, 2024 17:54:44.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 18:14:12.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 18:20:57.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 18:22:41.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 09, 2024 19:11:44.74 NEW SESSION
+1월 09, 2024 19:11:44.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:12:48.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:14:35.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:14:49.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:16:25.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:17:25.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:28:15.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 19:48:04.32 [30988:32996:0109/194804.326:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 19:49:02.30 [30988:32996:0109/194902.303:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 19:49:02.30 [30988:32996:0109/194902.303:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 20:11:53.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 20:17:27.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 20:20:59.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 20:25:13.68 [6824:23044:0109/202513.683:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 20:32:07.45 [6824:23044:0109/203207.457:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 20:32:07.45 [6824:23044:0109/203207.457:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 20:36:19.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 21:36:03.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 21:39:15.60 [33672:4912:0109/213915.601:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 21:56:02.46 [33672:34708:0109/215602.454:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 10, 2024 09:34:36.04 [33672:34708:0110/093436.042:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1월 10, 2024 09:34:36.08 [33672:34708:0110/093436.080:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1월 10, 2024 09:34:36.11 [33672:4912:0110/093436.110:ERROR:device_event_log_impl.cc(192)] [09:34:36.093] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 10, 2024 09:52:27.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 09:54:41.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 10, 2024 11:04:37.58 NEW SESSION
+1월 10, 2024 11:04:37.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 10, 2024 12:31:19.27 NEW SESSION
+1월 10, 2024 12:31:19.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 12:52:08.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 12:54:43.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 12:55:23.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 14:05:20.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 10, 2024 16:29:40.47 NEW SESSION
+1월 10, 2024 16:29:40.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 16:30:32.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 16:31:19.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 17:01:09.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 17:01:38.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 17:02:11.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 10, 2024 17:02:18.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
